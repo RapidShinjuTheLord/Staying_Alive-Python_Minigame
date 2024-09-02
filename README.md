@@ -14,6 +14,8 @@ All graphics, music are by me.
 
 Both pygame and openai gym will be needed to run this project, as it was also used as an environment for Reinforcement learning agents to train on, with reward functions and environment states. Simply install dependencies and run main.py to use the project.
 
-Below is a video that previews gameplay:
+Below is a video that previews the gameplay:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aXTRORcWEyM/0.jpg)](https://www.youtube.com/watch?v=aXTRORcWEyM)
 
 
