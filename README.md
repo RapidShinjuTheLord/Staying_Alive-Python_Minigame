@@ -8,3 +8,4 @@ For more information about the full project, feel free to watch the video:
 
 ![alt text](media/Artwork/pdown1.png) ![alt text](media/Artwork/pleft1.png) ![alt text](media/Artwork/pright1.png) ![alt text](media/Artwork/pup1.png)
 
+Both pygame and openai gym will be needed to run this project, as it was also used as an environment for Reinforcement learning agents to train on, with reward functions and environment states. Simply run main.py to use the project.
