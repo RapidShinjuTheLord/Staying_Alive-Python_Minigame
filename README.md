@@ -10,4 +10,10 @@ For more information about the full project, feel free to watch the video:
 
 There are several different types of obstacles, including lasers, fire, plasma balls, and bombs. Other than the plasma balls, all obstacles are indicated with a flashing light before appearing, so pay attention to these signs. In general, it is not difficult for human players to outperform AI agents.
 
+All graphics, music are by me. 
+
 Both pygame and openai gym will be needed to run this project, as it was also used as an environment for Reinforcement learning agents to train on, with reward functions and environment states. Simply run main.py to use the project.
+
+Below is a video that previews gameplay:
+
+
